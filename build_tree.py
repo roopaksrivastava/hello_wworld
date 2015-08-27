@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 27 17:00:49 2015
-
-@author: jsk
-"""
 from sys import exit
 import networkx as nx
 import numpy as np
